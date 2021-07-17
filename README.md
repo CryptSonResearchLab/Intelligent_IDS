@@ -6,6 +6,8 @@ Going digital involves networking with so many connected devices, so network sec
 
 # DOI:  https://doi.org/10.21467/proceedings.115.3
 
+# Sample Code DOI: http://doi.org/10.13140/RG.2.2.28037.47843
+
 ### CrossRef: https://search.crossref.org/?q=10.21467%2Fproceedings.115.3&from_ui=yes
 
 ### Google Scholar: https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Intelligent+Intrusion+Detection+System+using+Supervised+Learning
